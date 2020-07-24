@@ -1,5 +1,7 @@
 ## Hi! i am HEONIL 👨‍💻
 
+> #### 🚀 Infinite Challenger
+
 **2020.01 - 2020.09**  
 [NCS] UI/UX Engineering & Software Engineering Course
 
@@ -10,7 +12,7 @@
 <div style="float: left;">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=javascript)](https://github.com/iamheonil)
 
 </div>
   
@@ -20,7 +22,7 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter)](https://github.com/iamheonil)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://iamheonil.github.io/)](https://iamheonil.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/he0nil/)](https://instagram.com/he0nil/)

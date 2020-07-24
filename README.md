@@ -22,15 +22,11 @@
 
 <div align="center">
   
-  <div align="left">
+  <div float="left" margin-left="15px">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
   
-  <div align="right">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
   

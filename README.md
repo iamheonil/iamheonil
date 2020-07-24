@@ -7,12 +7,12 @@
 
 </div>
 
------
+<hr>
+#### 2020.01 - 2020.09
+##### UI/UX Engineering & Software Engineering Course
+<hr>
 
-- A
-  - B
-  - C
-
+#### <a href="https://iamheonil.github.io/project/">지금까지 작업한 프로젝트</a>
 -----
 
 

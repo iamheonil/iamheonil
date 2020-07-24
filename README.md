@@ -17,11 +17,13 @@
   
   <div style="float: left;">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
   
+<br>
+
 <div align="center"> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter)](https://hits.seeyoufarm.com)     

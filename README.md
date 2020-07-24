@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! i am HEONIL KIM 👋
 
 <div align="center">
   

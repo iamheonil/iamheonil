@@ -10,7 +10,7 @@
 #### 2020.01 - 2020.09
 ##### UI/UX Engineering & Software Engineering Course
 
-#### <a href="https://iamheonil.github.io/project/"target="_blank">지금까지 작업한 프로젝트</a>
+#### <a href="https://iamheonil.github.io/project/" target="_blank">지금까지 작업한 프로젝트</a>
 -----
 
 

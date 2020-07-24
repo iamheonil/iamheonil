@@ -22,7 +22,7 @@
 
 
   
-  <div float="left" margin-left="15px" width="50%">
+  <div style="float: left; margin-left: 35px;">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil)](https://github.com/anuraghazra/github-readme-stats)
   

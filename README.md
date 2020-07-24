@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="text-align:center">
+<div style="margin: auto">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter)](https://hits.seeyoufarm.com)                 
 

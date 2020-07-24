@@ -17,7 +17,7 @@
   
   <div style="float: left;">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>

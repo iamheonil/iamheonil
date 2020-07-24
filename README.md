@@ -21,12 +21,17 @@
 -----
 
 <div align="center">
+  
   <div align="left">
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
   
   <div align="right">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://iamheonil.github.io/)](https://iamheonil.github.io/) 

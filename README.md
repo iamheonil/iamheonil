@@ -1,6 +1,8 @@
 ## Hi! i am HEONIL 👨‍💻
 
-> #### 🚀 Infinite Challenger
+> ### 🚀 Infinite Challenger
+
+<br>
 
 **2020.01 - 2020.09**  
 [NCS] UI/UX Engineering & Software Engineering Course

@@ -11,7 +11,7 @@
 
 -----
   
-<div align=left>
+<div align="left">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) 
 

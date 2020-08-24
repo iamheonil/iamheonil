@@ -14,13 +14,11 @@
 <div align="left">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) 
-
-<div align="right">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=html,javascript,css)](https://github.com/iamheonil)
 
-  </div>
-</
+</div>
+
 <br>
 
 <div align="center"> 

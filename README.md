@@ -13,9 +13,7 @@
   
 <div align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=html,javascript,css)](https://github.com/iamheonil)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=html,javascript,css)](https://github.com/iamheonil) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) 
   
 </div>
 

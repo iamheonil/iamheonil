@@ -11,14 +11,14 @@
 
 -----
   
-<div style="float: left;">
+<div style="width=80%; float: left;">
 
-<!-- 페이지 오류로 잠시 숨김!
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
--->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) 
 
-  
+</div>
+
+<div float: right;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=html,javascript,css)](https://github.com/iamheonil)
 
 

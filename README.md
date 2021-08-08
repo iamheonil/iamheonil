@@ -1,8 +1,6 @@
-## Hi! i am HEONIL 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nanumgothic&color=F5F7F4&size=28&vCenter=true&width=405&height=55&lines=Hi!+i+am+HEONIL+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-> ### 🚀 Infinite Challenger
-
-<br>
+-----
 
 **2020.01 - 2020.09**  
 [NCS] UI/UX Engineering & Software Engineering Course
@@ -10,12 +8,21 @@
 <!-- #### <a href="https://iamheonil.github.io/project/" target="_blank">지금까지 작업한 프로젝트 보러가기</a> -->
 
 -----
-  
-<div align="left">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamheonil&hide=html,javascript,css)](https://github.com/iamheonil) 
-  
-</div>
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=457 src="https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=457 src="http://github-readme-streak-stats.herokuapp.com?user=iamheonil&hide_border=true&theme=black-ice" alt="" />
+    </a>
+  </div>
+
+<br><br><br><br><br><br><br><br>
+
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamheonil&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -30,7 +37,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/he0nil/)](https://instagram.com/he0nil/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heonil)](https://www.facebook.com/heonil)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamheonil@gmail.com)](mailto:iamheonil@gmail.com)
-
+  
 </div>
 
 <br>

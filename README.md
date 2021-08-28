@@ -6,6 +6,9 @@
 
 -----
 
+**2020.10 ~ **  
+BackEnd Developer
+
 **2020.01 - 2020.09**  
 [NCS] UI/UX Engineering & Software Engineering Course
 

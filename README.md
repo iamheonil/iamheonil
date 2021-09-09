@@ -37,7 +37,7 @@ BackEnd Developer
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter)](https://github.com/iamheonil)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter&count_bg=%2300E6FE&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://github.com/iamheonil)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://iamheonil.github.io/)](https://iamheonil.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tistory%20blog-yellow?style=flat-square&link=https://heonil.tistory.com/)](https://heonil.tistory.com/)

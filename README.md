@@ -1,7 +1,3 @@
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nanumgothic&color=F5F7F4&size=28&vCenter=true&width=405&height=55&lines=Hi!+i+am+HEONIL+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
--->
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20HEONIL&fontSize=75)
 
 -----

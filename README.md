@@ -59,5 +59,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 크흠.. 가끔씩의 야근크리로 Readme만 수정되는 기이한 현상이 발생할 수도 있습니다.. 7
-ㅠㅠ 프로그래머스 완주하지 못한 사람 내일중으로 커밋하고 블로그에 글 써야지
 -->

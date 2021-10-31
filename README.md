@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 크흠.. 가끔씩의 야근크리로 Readme만 수정되는 기이한 현상이 발생할 수도 있습니다.. 7
-T_T 백신크리
+T_T 백신크리2..!
 -->

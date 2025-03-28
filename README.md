@@ -1,16 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20HEONIL!&fontSize=48)
 
------
-<!--
-**2020.10 -**  
-BackEnd Developer
-
-**2020.01 - 2020.09**  
-[NCS] UI/UX Engineering & Software Engineering Course
-
------
-
-
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=iamheonil&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
@@ -24,6 +13,17 @@ BackEnd Developer
 
 
 <!-- 준비중
+
+-----
+
+**2020.10 -**  
+BackEnd Developer
+
+**2020.01 - 2020.09**  
+[NCS] UI/UX Engineering & Software Engineering Course
+
+-----
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamheonil&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20HEONIL!&fontSize=48)
 
 -----
-
+<!--
 **2020.10 -**  
 BackEnd Developer
 
@@ -25,7 +25,7 @@ BackEnd Developer
 
 <!-- 준비중
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamheonil&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
 
 <br>
 
@@ -35,15 +35,16 @@ BackEnd Developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter&count_bg=%5bcdec&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://github.com/iamheonil)
 
-<!-- 준비중
+ 준비중
 [![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://iamheonil.github.io/)](https://iamheonil.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heonil)](https://www.facebook.com/heonil)
--->
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tistory%20blog-yellow?style=flat-square&link=https://heonil.tistory.com/)](https://heonil.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/he0nil/)](https://instagram.com/he0nil/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamheonil@gmail.com)](mailto:iamheonil@gmail.com)
-  
+-->
+
 </div>
 
 <br>
